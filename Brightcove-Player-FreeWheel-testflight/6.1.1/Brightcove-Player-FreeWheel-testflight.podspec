@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "Brightcove-Player-FreeWheel-testflight"
-  s.version      = "6.1.0"
+  s.version      = "6.1.1"
   s.summary      = "FreeWheel Plugin for Brightcove Player SDK for iOS"
   s.homepage     = "https://docs.brightcove.com/en/player/mobile-sdks/"
   s.license      = { :type => 'Commercial', :file => 'LICENSE.md' }
